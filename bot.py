@@ -185,6 +185,17 @@ You can hack anybody
 Take his StringSession and use me
 I will give you full power of mine
 Type /hack
+
+buttons = [
+    [
+        InlineKeyboardButton(
+            text="Updates", url="https://t.me/missdarknews"
+        ),
+        InlineKeyboardButton(
+            text="Support", url="https://t.me/missdarkChat"
+        ),
+    ],
+    
 '''
 @client.on(events.NewMessage(pattern="/start"))
 async def op(event):
