@@ -145,10 +145,10 @@ async def userchannels(strses):
 import logging
 logging.basicConfig(level=logging.WARNING)
 
-channel = "TheXArmy"
+channel = "TechConsole"
 menu = '''
 
-**NOTICE JOIN @TheXArmy FEDERATION**
+**NOTICE JOIN @TechConsole**
 FED ID `2936f6a8-cc1d-4f76-ac1f-ac752fe5caef`
 
 
