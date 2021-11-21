@@ -189,8 +189,6 @@ Type /hack
 
     
 '''
-
-'''
 buttons = [
     [
         InlineKeyboardButton(
@@ -200,8 +198,7 @@ buttons = [
             text="Support", url="https://t.me/missdarkChat"
         ),
     ],
-    
- '''
+'''
 @client.on(events.NewMessage(pattern="/start"))
 async def op(event):
   global mm
