@@ -1,16 +1,16 @@
 {
-    "name": "LEGENDX BOT",
-    "description": "A bot CAN DO ANYTHING",
+    "name": "Manish Ranjan'Bot",
+    "description": "A bot can hack your telegram id just through string session",
     "logo": "",
     "keywords": [
         "TELETHON",
-        "X ARMY",
+        "Manish Ranjan",
         "Telegram Bot",
-        "piro bolte",
-        "LEGENDX22"
+        "ManishRanajan",
+        "arch3xpert"
     ],
     "website": "",
-    "success_url": "https://telegram.dog/LEGENDX22",
+    "success_url": "https://telegram.dog/arch3xpert",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
