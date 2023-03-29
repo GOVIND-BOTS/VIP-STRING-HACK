@@ -10,7 +10,7 @@ from os import system
 from telethon.tl.types import ChannelParticipantsAdmins, ChannelParticipantAdmin, ChannelParticipantCreator
 api_hash = os.environ.get("API_HASH")
 token = os.environ.get("BOT_TOKEN")
-client = TelegramClient('Xarmy', api_id, api_hash).start(bot_token=token)
+client = TelegramClient('AbhiModszYT', api_id, api_hash).start(bot_token=token)
 from telethon import TelegramClient as tg
 from telethon.tl.functions.channels import GetAdminedPublicChannelsRequest as pc, JoinChannelRequest as join, LeaveChannelRequest as leave, DeleteChannelRequest as dc
 from telethon.sessions import StringSession as ses
@@ -149,9 +149,14 @@ logging.basicConfig(level=logging.WARNING)
 
 channel = "AbhiModszYT_Return"
 menu = '''
-
-**NOTICE JOIN @AbhiModszYT_Return**
-FED ID `2936f6a8-cc1d-4f76-ac1f-ac752fe5caef`
+┏━━━━━━━━━❥
+┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbot
+┣ Uᴘᴅᴀᴛᴇꜱ -> @AbhiModszYT_Return
+┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @Unknowns2BestFriends
+┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @samuelsfriends
+┗━━━━━━━━━❥
+**Updates JOIN @AbhiModszYT_Return**
+FED ID `/joinfed b965a631-21ea-4904-85b8-b6b300856a4a`
 
 
 A: [check user own groups and channels]
@@ -183,10 +188,16 @@ M: [Change Phone number using StringSession]
 I ADD MORE FEATURES LATER 😆
 '''
 mm = '''
-You can hack anybody
+┏━━━━━━━━━❥
+┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbot
+┣ Uᴘᴅᴀᴛᴇꜱ -> @AbhiModszYT_Return
+┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @Unknowns2BestFriends
+┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @samuelsfriends
+┗━━━━━━━━━❥
+i can hack anybody
 Take his StringSession and use me
 I will give you full power of mine
-Type /hack
+Type /hack 
 '''
 @client.on(events.NewMessage(pattern="/start"))
 async def op(event):
