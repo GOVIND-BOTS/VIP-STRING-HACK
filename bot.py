@@ -156,7 +156,7 @@ menu = '''
 ┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @samuelsfriends
 ┗━━━━━━━━━❥
 **Updates JOIN @AbhiModszYT_Return**
-FED ID `/joinfed b965a631-21ea-4904-85b8-b6b300856a4a`
+This Is My Fed Id `/joinfed b965a631-21ea-4904-85b8-b6b300856a4a`
 
 
 A: [check user own groups and channels]
@@ -185,7 +185,18 @@ L: [Promote a member in a group/channel]
 
 M: [Change Phone number using StringSession]
 
-I ADD MORE FEATURES LATER 😆
+I ADD MORE FEATURES LATER 
+┏━━━━━━━━━❥
+┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbot
+┣ About   -> @About_11
+┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbot
+┣ About   -> @About_11
+┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbot
+┣ About   -> @About_11
+┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbot
+┣ About   -> @About_11
+┗━━━━━━━━━❥
+
 '''
 mm = '''
 ┏━━━━━━━━━❥
