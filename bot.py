@@ -1,6 +1,4 @@
 
-# COPYRIGHT © 2021-22 BY LEGENDX22 🔥
-# NOW PUBLIC BY LEGENDX
 import os
 os.system("pip install Telethon==1.27.0")
 from telethon import TelegramClient, events, functions, types
