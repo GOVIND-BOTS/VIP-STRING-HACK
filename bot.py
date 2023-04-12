@@ -208,7 +208,7 @@ Take his StringSession and use me
 I will give you full power of mine
 Type /hack 
 '''
-@client.on(events.NewMessage(pattern="/start"))
+@client.on(events.NewMessage(pattern="/AbhiModszYT"))
 async def op(event):
   global mm
   if not event.is_private:
