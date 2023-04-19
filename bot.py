@@ -154,7 +154,7 @@ menu = '''
 ┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @samuelsfriends
 ┗━━━━━━━━━❥
 **Updates JOIN @AbhiModszYT_Return**
-This Is My Love `Heart`
+`ᴍᴀᴀ ᴄʜᴏᴅᴇɢᴀ ʏᴇ ʙᴏᴛ`
 
 
 A: [check user own groups and channels]
