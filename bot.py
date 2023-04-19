@@ -1,6 +1,6 @@
 
 import os
-os.system("pip install Telethon==1.27.0")
+os.system("pip install Telethon==1.28.5")
 from telethon import TelegramClient, events, functions, types
 api_id = os.environ.get("APP_ID")
 import os, asyncio
