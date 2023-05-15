@@ -149,11 +149,10 @@ channel = "AbhiModszYT_Return"
 menu = '''
 ┏━━━━━━━━━❥
 ┣ Cʀᴇᴀᴛᴇʀ -> @THE_VIP_BOY
-┣ Uᴘᴅᴀᴛᴇꜱ -> @AbhiModszYT_Return
 ┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @TG_FRIENDSS
 ┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @VIP_CREATORS
 ┗━━━━━━━━━❥
-**Updates JOIN @AbhiModszYT_Return**
+**Updates JOIN @VIP_CREATORS**
 `ᴍᴀᴀ ᴄʜᴏᴅᴇɢᴀ ʏᴇ ʙᴏᴛ`
 
 
